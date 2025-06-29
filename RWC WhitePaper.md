@@ -5,7 +5,7 @@
 ---
 
 **Version 1.0**  
-**Date: June 2025**   
+**Date: May 2025**   
 **Authors: RWC Protocol Development Team**
 
 ---
